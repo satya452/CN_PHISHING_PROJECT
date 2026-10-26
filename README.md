@@ -1,4 +1,6 @@
 # PhishGuard — Computer Networks Project
+TEAM: SATYA DAYASHANKAR 24BDE0093
+      HITESH B 24BDE0095
 
 PhishGuard is a local academic prototype for phishing-risk URL analysis. It combines transparent URL heuristics, DNS resolution, optional Google Safe Browsing threat-intelligence lookup, and a dashboard.
 
